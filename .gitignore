@@ -3,3 +3,6 @@
 
 # Ignore Uncover Folder with all datasets
 UNCOVER/
+
+# Ignore COVID-19-master Folder
+COVID-19-master/
