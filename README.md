@@ -3,6 +3,6 @@ Exploring the data to answer research questions that support frontline responder
 
 https://www.kaggle.com/covid19
 
-31 Day Chanllenge:
+## 31 Day Challenge:
 
-Day 1: Cleaned Data and doing Visualizations:
+*Day 1:* Cleaned Data and doing Visualizations:
