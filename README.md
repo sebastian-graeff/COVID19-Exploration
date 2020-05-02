@@ -5,5 +5,5 @@ https://www.kaggle.com/covid19
 
 ## 31 Day Challenge:
 
-**Day 1:** Cleaned Data and doing Visualizations:
+**Day 1:** Cleaned Data and doing Visualizations <br>
 **Day 2:** Cleaned Data and created new coordinates variable
